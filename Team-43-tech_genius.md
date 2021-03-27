@@ -19,7 +19,7 @@
 - Link of Git Repository : https://github.com/Mr-codehunter
 
 
-# 3. Vishal Maurya 
+# 3. Vishal Mauriya 
 - E-mail : vishalmaurya7973@gmail.com
 - Branch : Information Technology
 - Area of Interest : Android development
