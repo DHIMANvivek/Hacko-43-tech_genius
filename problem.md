@@ -1,4 +1,4 @@
-# <center> Educational Development 
+# <center> Educational Development ( Online Exam App Development ) 
    Authentication system for making student login using google sign in integration by taking the following permissions from the user.
 
    After accepting the terms and conditions user will not be able to use any application other than this app
